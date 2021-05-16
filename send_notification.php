@@ -13,7 +13,8 @@ function sendNotification(){
     );
 
     $headers=array(
-        'Authorization: key=YOUR_SERVER_KEY',
+        'Authorization: key=AAAAGuIPj-E:APA91bGKpRqdSlKYCdEpS6xZ8Qp07mC-tyW8TrpJKqLYHT6ur8hmZFmyl5Qz1s038qnenfzlGclCbR-FPO9XMy0RIH04u6pACmFnJ-UEmz3HJPvNIF7EJXrsIhSmSvP92gSyXXCSo9CW
+',
         'Content-Type:application/json'
     );
 
